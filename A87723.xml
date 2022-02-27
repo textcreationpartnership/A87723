@@ -1,0 +1,660 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The unlimited authority of Christs disciples cleared or the present church and ministery vindicated. Or Christs disciples authority for the practice of his commands is unlimitted. Being a brief answer to a book intituled (A sober Word to a serious people.) There the writer saith, Christ gave his commissions not to disciples as disciples, but to apostles. But here is by Scripture proved, that the authority &amp; commissions, given to disciples, (as disciples considered) are of a far larger extent, then the authority of commissions given to apostles. Written by Thomas Kilcop.</title>
+            <author>Killcop, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 64 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87723</idno>
+            <idno type="STC">Wing K441</idno>
+            <idno type="STC">Thomason E1377_5</idno>
+            <idno type="STC">ESTC R209289</idno>
+            <idno type="EEBO-CITATION">99868173</idno>
+            <idno type="PROQUEST">99868173</idno>
+            <idno type="VID">169883</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87723)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169883)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 180:E1377[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The unlimited authority of Christs disciples cleared or the present church and ministery vindicated. Or Christs disciples authority for the practice of his commands is unlimitted. Being a brief answer to a book intituled (A sober Word to a serious people.) There the writer saith, Christ gave his commissions not to disciples as disciples, but to apostles. But here is by Scripture proved, that the authority &amp; commissions, given to disciples, (as disciples considered) are of a far larger extent, then the authority of commissions given to apostles. Written by Thomas Kilcop.</title>
+                  <author>Killcop, Thomas.</author>
+               </titleStmt>
+               <extent>[2], 48 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.C.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to: Jackson, John.  A sober word to a serious people: or, A moderate discourse respecting as well the seekers, (so called) as the present churches.</note>
+                  <note>Annotation on Thomason copy: "Ocotb. 12".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jackson, John, fl. 1651-1657. --  Sober word to a serious people: or, A moderate discourse respecting as well the seekers, (so called) as the present churches.</term>
+               <term>Seekers (Sect) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169883:1" rendition="simple:additions"/>
+            <p>The unlimitted Authority OF <hi>Chriſts Diſciples</hi> cleared, OR The preſent Church and Miniſtery vindicated. Or Chriſts Diſciples Autho<g ref="char:EOLhyphen"/>rity for the practice of his Com<g ref="char:EOLhyphen"/>mands is unlimitted.</p>
+            <p>BEING A brief anſwer to a Book intituled <hi>(A ſober Word to a ſerious People.)</hi> There the Wri<g ref="char:EOLhyphen"/>ter ſaith, Chriſt gave his Commiſſions not to Diſciples as Diſciples, but to Apoſtles.</p>
+            <p>But here is by Scripture proved, that the Authority &amp; Commiſſions, given to Diſ<g ref="char:EOLhyphen"/>ciples, (as Diſciples conſidered) are of a far larger extent, then the Au<g ref="char:EOLhyphen"/>thority or Commiſſions given to Apoſtles.</p>
+            <p>
+               <hi>Written by</hi> THOMAS KILCOP.</p>
+            <q>Bind up the Teſtimony, ſeale the Law among my Diſciples, <hi>Eſa 8.16.</hi> O my Dove, that art in the Clefts of the Rocks, in the ſecret places of the staires; let me ſee thy counte<g ref="char:EOLhyphen"/>nance, let me hear thy voice; f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r ſweet is thy voice, and thy countenance comely.</q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. C.</hi> 1651.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:169883:2"/>
+            <pb facs="tcp:169883:2"/>
+            <head>TO THE READER,</head>
+            <p>
+               <seg rend="decorInit">C</seg>Hriſtian Reader, there came to my hand a Book (with no name to it) intituled, <hi>(A ſober word to a ſerious people.)</hi> It op<g ref="char:EOLhyphen"/>poſeth all Churches or Miniſtery, that this day be, and none (as yet) hath put forth any anſwer thereto; wherefore I thought my ſelf engaged, to ſpend my mite of opportunity therein. In the ſaid Book are multiplicity of words and Scriptures quo<g ref="char:EOLhyphen"/>ted over and over: therefore for brevity ſake, I mind only (yet exactly) the pith of it, and give thereto a brief, and punctual Anſwer, even by the word of truth, being very brief, the Reader ſhould be the mere obſervant. <hi>Try all things, hold faſt that which is good, 1</hi> Theſ. <hi>5.21.</hi> Do men con<g ref="char:EOLhyphen"/>tend againſt truth? Oh then contend againſt ſuch men. Do they make void Gods Commands? Oh then exalt them, <hi>it is time for thee Lord, to work (ſaith</hi> David) <hi>for they have made void thy Law: therefore I love thy Commandements above Gold, yea fine Gold; therefore I eſteem all thy precepts, concerning all things to be right, and I hate every falſe way.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:169883:3"/>
+            <head>The unlimitted Authority of <hi>Chriſts</hi> Diſciples cleared.</head>
+            <div n="1" type="part">
+               <head>The firſt part</head>
+               <div n="1" type="chapter">
+                  <head>CHAP. 1.</head>
+                  <p>
+                     <seg rend="decorInit">I</seg>N that Book he mindeth what the better ſort of Seekers (ſo called) can do, and what they cannot do, they ought (ſaith he) p. 2. to read, pray, and give Almes, from <hi>Acts</hi> 8. &amp; 10.1.2. and this for ſeveral ends, p. 3. but for the preſent Churches and Miniſtery, they ſee no ground: theſe being Chriſt's grand, capital, and comprehenſive inſtitutions, to which he gave gifts, for comparing theſe with the word they conform not, p. 4.</p>
+                  <p>
+                     <pb n="3" facs="tcp:169883:3"/>I anſwer; Chriſt requireth not only reading, praying, and almes-giving; but alſo Church-meeting and Miniſtery, as, <hi>forſake not the fellowſhip that you have among your ſelves, exhort one another daily, love brotherly fellowſhip,</hi> Heb. 3.13. and 10.25. 1 Pet. 2.17. <hi>ſuch as gladly received his word were baptized, and they continued in the Apoſtles Doctrine and fellowſhip,</hi> Act 2.41, 42.</p>
+                  <p>Why can you not conform to one as well as to the other, ſince Chriſt requireth the one as much as the other?</p>
+                  <p n="1">1. <hi>Theſe</hi> (ſaith he) <hi>are great and capital inſti<g ref="char:EOLhyphen"/>tutions.</hi>
+                  </p>
+                  <p>I anſwer, the more great and weighty, the ra<g ref="char:EOLhyphen"/>ther to be obeyed, they were hypocrites that ty<g ref="char:EOLhyphen"/>thed <hi>Mint</hi> and <hi>Annis,</hi> and left the weightieſt matters of the Law, <hi>Mat.</hi> 23.23, 24.</p>
+                  <p n="2">2. <hi>To theſe</hi> (ſaith he) <hi>Chriſt gave gifts.</hi>
+                  </p>
+                  <p>I anſwer, if by gifts he mean the gift of faith, love, joy, <hi>&amp;c.</hi> ſurely if theſe be wanting, not Church &amp; Miniſtery only; but praying, read<g ref="char:EOLhyphen"/>ing, and almes giving alſo, are alike vain; <hi>for who can call on him in whom they believe not,</hi> Rom. 10. <hi>and if we give all our Goods to the poor, and have not love, it profits not.</hi> 1 Cor. 13.3. and reading, if without faith profits not; for, <hi>without faith it is unpoſſible to pleaſe God.</hi> Heb. 11.5. but it by gifts he mean tongues and Miracles, as I judge
+<pb n="4" facs="tcp:169883:4"/>
+he doth) then I reply, that miracles were to confirm the word, and not to beget obedience to it in ſuch as before knew it, <hi>tongues alſo, were not for them that believe, but for them that believe not:</hi> theſe gifts were not given to make know<g ref="char:EOLhyphen"/>ers obey, but to make non knowers to know, <hi>Mark</hi> 16.20. 1 <hi>Cor.</hi> 14.22. <hi>Heb.</hi> 2.4. Do you own the Scripture to be Gods word, and there<g ref="char:EOLhyphen"/>fore read it, though you ſaw no miracle to confirm it? much more ſhould you obey it though you ſee no miracle: or do you in ſome things conform to it without ſeeing miracles? you might do ſo alſo in other things on the ſame ground, and you cannot diſobey it for want of miracles, without diſowning it on the ſame account, and as well might you for want here of diſobey it in every thing as in ſom thing.</p>
+                  <p>But the inference of theſe words (to theſe he gave gifts) is, that the Church or Miniſtery that hath them not, is not Chriſts Church or Miniſtery, and then, Chriſt may be obeyed though theſe be rejected.</p>
+                  <p>I anſwer, the Scripture ſaith, <hi>theſe tokens ſhall follow them that believe, Mark</hi> 16. but it doth not ſay, ſuch tokens ſhall accompany the Mi<g ref="char:EOLhyphen"/>niſtery, and be in every viſible Church: therefore you might rather queſtion (as ſome do) whether any in the world do believe, ſince theſe are wanting:
+<pb n="5" facs="tcp:169883:4"/>
+then for want of theſe, to queſtion the truth of the Church and Miniſtery, which thoſe by you judged believers do enjoy.</p>
+                  <p n="2">2. <hi>You herein queſtion the truth of the Church and Miniſtery, that have been as much as thoſe that now are; for</hi> John <hi>a Goſpel-Miniſter,</hi> Mark. 1.1, 2, 3, 4. <hi>did no Miracle,</hi> John 10.41. <hi>and though the</hi> Corinth. <hi>had all gifts,</hi> 1 Cor. 1.7. <hi>and the</hi> Gala<g ref="char:EOLhyphen"/>tians <hi>had ſome, yet we read not of any in the Churches of</hi> Macedonia, <hi>or</hi> Aſia, <hi>or the</hi> Ephe<g ref="char:EOLhyphen"/>ſians, Bereans, Philippians, <hi>or almost any Church ſpoken of.</hi>
+                  </p>
+                  <p>Obj. <hi>God hath ſet ſuch in the Church,</hi> 1 Cor. 12.28, 29.</p>
+                  <p>I anſwer, it is in that place evident, that the Church there ſpecified, is no particular Church, but the Church general, called elſe-where the general Aſſembly of the firſt born written in Heaven, <hi>Heb.</hi> 12. of which if we be not Mem<g ref="char:EOLhyphen"/>bers, not only Church and Miniſtery, but our readings, prayings, and diſtributions are little worth.</p>
+                  <p>But if we be of this Church general, (as all believers be) then may we acceptably pray, read, <hi>&amp;c.</hi> and as acceptably aſſociate, preach, break bread, and what not? for <hi>if juſtified by faith, we have peace God-ward through our Lord Jeſus Chriſt, by him alſo we have acceſs to this grace,
+<pb n="6" facs="tcp:169883:5"/>
+wherein we ſtand,</hi> Rom. 5.2. <hi>Rejoyce not in men, for all is ours,</hi> Paul, Apollo, <hi>things preſent, or to come, all is ours, and we Chriſts,</hi> 1 Cor. 3.21, 22, 23.</p>
+                  <p n="3">3. <hi>Theſe ſaith he, if compared with the word con<g ref="char:EOLhyphen"/>form not.</hi>
+                  </p>
+                  <p>I anſwer, as much as your praying, reading, or Almes-giving do; though we examine only his own quotations. The <hi>Eunuch</hi> and <hi>Corneli<g ref="char:EOLhyphen"/>us,</hi> who acceptably read, prayed and gave Alms, had quickly, the one a man, the other an Angel, ſent them to eſtate them into Goſpel Church and Miniſtery, which he hath not to this day enjoy<g ref="char:EOLhyphen"/>ed: therefore his own practice conformeth not to his own quotation.</p>
+                  <p>Obj. <hi>They are not ſo unſuitable as to be diſown<g ref="char:EOLhyphen"/>ed.</hi>
+                  </p>
+                  <p>I anſwer, I ſay the ſame of the preſent Churches and Miniſtery, their unſutablenes may be parallel'd by ſome owned in Scripture for Churches, and the Temple (he ſaith elſe-where) was a Type of the Goſpel Church State; but in that, though the free harted could not come nigh the firſt pattern, how doth God incourage them notwithſtanding, <hi>Haggai</hi> 2.4, 5, 6. there<g ref="char:EOLhyphen"/>fore if you can pray, and read, <hi>&amp;c.</hi> though you therein come ſhort of the primitive pattern, you might alſo conform to the preſent Church and
+<pb n="7" facs="tcp:169883:5"/>
+Miniſtery among the free and upright hearted, though they come ſhort of the firſt pattern. And ſo much to that.</p>
+               </div>
+               <div n="2" type="chapter">
+                  <head>CHAP. 2.</head>
+                  <p>
+                     <hi>IN the ſaid Book he alſo ſaith, though ſome ſay the Commiſſion,</hi> Mat. 28.19, 20. <hi>was given to Diſciples as Diſciples, or to preaching Diſciples; but Chriſt (ſaith he) p.</hi> 5. <hi>ſingled out ſome from o<g ref="char:EOLhyphen"/>thers to preach,</hi> Mat. 10.1.16. Mark 3.13. Luke 6.13. <hi>and this Commiſſion,</hi> Mat. 28. <hi>was given to the ſame perſons,</hi> p. 6.</p>
+                  <p>I anſwer, that Commiſſion, Mat. 10. was in its extent limitted both for time and perſons, it was to be expenced.</p>
+                  <p>by—
+<list>
+                        <item>ſingled out men</item>
+                        <item>only to the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ews</item>
+                        <item>before Chriſt's death.</item>
+                     </list>
+But this <hi>Mat.</hi> 28. is every way unlimitted, it ex<g ref="char:EOLhyphen"/>tendeth to
+<list>
+                        <item>all Nations.</item>
+                        <item>all Ages.</item>
+                     </list>
+                  </p>
+                  <p>And may be, yea muſt be diſpenſed by Diſci<g ref="char:EOLhyphen"/>ples.</p>
+                  <p>Obj: <hi>It was given to the very ſame perſons.</hi>
+                  </p>
+                  <p>
+                     <pb n="8" facs="tcp:169883:6"/>I anſwer, it was given to them, and alſo to the reſt that were with them, as <hi>Luke</hi> 24:33. to the end.</p>
+                  <p n="2">2 If it had been given perſonally to no more then the eleven; yet were they when that was given, <hi>Mat.</hi> 10. called Apoſtles; but now called diſciples, verſe 16. and Chriſt could as eaſily have called them Apoſtles as Diſciples, had he herein conſidered them as Apoſtles, and not as Diſci<g ref="char:EOLhyphen"/>ples.</p>
+                  <p n="3">3 If it had been given to them only, and if they had now alſo been termed Apoſtles; yet it would plainly appear to be given to them not conſidered as <hi>Apoſtles,</hi> but as Diſciples; yea ſo, as to include therein the whole body of Diſciples in all Nations, and in all Ages, as much as they.</p>
+                  <p>For theſe are herein bid <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> [by teaching to make Diſciples all Nations] with this addition, verſe 20: <hi>teaching them to obſerve all things whatſoever I have commanded you, and loe, I am with you always, &amp;c: teaching them,</hi> to wit, the diſcipliſed, whether Jew or Gentile, <hi>to obſerve,</hi> to do, to practice <hi>all things,</hi> every Goſ<g ref="char:EOLhyphen"/>pel Command, <hi>whatſoever I have</hi> ever ſince I eſtated to you, in Goſpel Worſhip <hi>Commanded <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ou.</hi>
+                  </p>
+                  <p>But Chriſt had taught theſe to be baptized, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o pray, to preach, to baptize, to aſſemble, to
+<pb n="9" facs="tcp:169883:6"/>
+break bread. <hi>Act.</hi> 2.41.42. <hi>Ergo</hi> the diſcipliſed, muſt do the ſame, of what Nation or age ſoever, therefore as praying Diſciples may pray, ſo preaching Diſciples may preach, uniting Diſcipls may unite, if they have ability they want not au<g ref="char:EOLhyphen"/>thority, being Diſciples, and ſo we being Diſci<g ref="char:EOLhyphen"/>ples, learners of Chriſt, hearkners to Chriſt, have authority to practiſe what we finde in Scripture be Chriſts Goſpell commands.</p>
+                  <p>Conſider alſo theſe things.</p>
+                  <p n="1">1. <hi>Were thoſe to whom in perſon this commiſſion was given, Apoſtles, then, the ſame Goſpell com<g ref="char:EOLhyphen"/>mands, that Apoſtles were to obſerve, muſt Diſci<g ref="char:EOLhyphen"/>ples obſerve alſo.</hi>
+                  </p>
+                  <p n="2">2. <hi>Were they Jews, then, the Goſpell-commands that Jews were to practiſe, muſt Gentiles practiſe alſo.</hi>
+                  </p>
+                  <p n="3">3. <hi>Were they with Chriſt, and was this before Chriſts aſcenſion, then the ſame commands that were to be obſerved while Chriſt was preſent, and before his aſcention: muſt be obſerved after his a<g ref="char:EOLhyphen"/>ſcenſion and in his abſence.</hi>
+                  </p>
+                  <p n="4">4. <hi>The ſame authority given before his death to ſingled out men, is after his reſurrection given to them and others as Diſciples but then it was limit<g ref="char:EOLunhyphen"/>ed to Apoſtles, but now to Diſciples boundleſſe Therefore the authority of Diſciples is far greater then the authority of Apoſtles.</hi>
+                  </p>
+                  <p n="5">
+                     <pb n="10" facs="tcp:169883:7"/>5. <hi>Sith this commiſſion was given to Diſciples before they had received the promiſed power from on high, we learn that Diſciples authority was as great before they received that power as after, and then, the ſaid power is ability, not authority.</hi>
+                  </p>
+                  <p n="6">6. <hi>Was this commiſſion given to the eleven, and the others with then, as</hi> Luke 24.33.47, 48, 49. <hi>Thoſe that could work miracles, and thoſe that could not too; then, ſuch Diſciples as cannot work miracles, have as much authority as thoſe that can, And ſo much to this alſo.</hi>
+                  </p>
+               </div>
+               <div n="3" type="chapter">
+                  <head>CHAP. 3.</head>
+                  <p>
+                     <hi>In the next place he propoundeth</hi> 4. <hi>queſtions.</hi> p. 6. <hi>and giveth thereto</hi> 4 <hi>poſitive anſwers in ſub<g ref="char:EOLhyphen"/>ſtance thus.</hi>
+                  </p>
+                  <p n="1">1. <hi>As of old: adminiſtrations were committed to choice men,</hi> Ex. 28.1.2. <hi>ſo now, is preaching and baptizing to a Miniſtery.</hi> p. 7. Mar. 3. Lu. 6. Acts. 10 1. &amp; 1, 2.17.25.</p>
+                  <p>I Anſw. As then the Levits were choſen for <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rieſts, and <hi>Aarons</hi> family for high Prieſts. <hi>Ex.</hi> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>8.</p>
+                  <p>So now is Chriſt our high Prieſt, and his diſci<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>es are Prieſts. <hi>Heb.</hi> 3.1. 1 <hi>Pet.</hi> 2.5, 6. and faith<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ll preachers are choice men.</p>
+                  <p>
+                     <pb n="11" facs="tcp:169883:7"/>His quotations were minded in the 2d. chap. Only here are two more added by him, as <hi>Act.</hi> 1. <hi>Acts</hi> 10. but both do gaine, ſay, what he draws from them.</p>
+                  <p>
+                     <hi>Act.</hi> 1. declareth, firſt, That, that which he jumbles together, are diſtinct, and Judas had a ſhare in both, <hi>Miniſterie and Apoſtleſhip, verſe</hi> 25. Secon<g ref="char:EOLhyphen"/>ly, That Apoſtles did not only preach and bap<g ref="char:EOLhyphen"/>tize, but were alſo eye-witneſſes of Chriſts death and reſurrection. <hi>v.</hi> 22.</p>
+                  <p>Thirdly, this place ſheweth plainly that the Miniſterie was bounded in Diſcipls, &amp; that Diſ<g ref="char:EOLhyphen"/>ciples have authority to rectifie what by Scri<g ref="char:EOLhyphen"/>pture they find to be amiſſe, yea authority to place men into offices, yea into Apoſtleſhip, and ſo diſciples authority is greater them Apoſtles authority: for <hi>Peter ſtood up among the Diſciples and ſaid Men and brethren, this Scripture muſt be fullfilled. &amp;c. verſ</hi> 15, 16. and then his advice being given to <hi>verſe</hi> 22. the effect is, <hi>and they ap<g ref="char:EOLhyphen"/>pointed two:</hi> they, to wit, the diſciples, the men and brethren, afore ſpecified: and <hi>verſe</hi> 24. 'tis ſaid further, <hi>and they prayed &amp;c. and they gave forth the Lots &amp;c.</hi> they appointed, they caſt Lots, they numbred him with then Apoſtles; thus his own quottaion is ſufficient againſt him.</p>
+                  <p>Ob. Verſe 1 <hi>He gave commandement to the Apoſtles whom he had choſen, &amp; Act</hi> 10 <hi>but to us
+<pb n="12" facs="tcp:169883:8"/>
+choſen before of God and he commanded us to preach &amp;c.</hi>
+                  </p>
+                  <p>I Anſw. That he now did give Commande<g ref="char:EOLhyphen"/>ments to thoſe before choſen and called Apo<g ref="char:EOLhyphen"/>ſtles, is true, but that his commands were given but to them, or that they were herein conſider<g ref="char:EOLhyphen"/>ed, not as diſciples is falſe, for.</p>
+                  <p>Firſt, as they were given to them, ſo to the reſt with them,</p>
+                  <p>Secondly, they were to teach the diſcipliſed, to obſerve the ſame, as in chap. 2</p>
+                  <p>And ſo in <hi>act</hi> 10, 41, 42 He appeared <hi>openly, not to all the people,</hi> that is, not to all the Jews, good and bad, <hi>but to us choſen before of God,</hi> not us Apoſtles only, but to us brethren, to 500 at once, 1 <hi>Cor.</hi> 15, 6 <hi>even to us which did eat and drink with him after he roſe againe, and he com<g ref="char:EOLhyphen"/>manded us to preach, &amp;c.</hi> us that eat and drank with him, which is the eleven and the reſt that were with them, as <hi>Lu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> 24.33, 43, 48, 49. and ſo much to this,</p>
+                  <p>
+                     <hi>His ſecond affirmation is in</hi> p. 8 <hi>that the ſaid Miniſtry is expreſt</hi> Eph 4, 12, 13 <hi>for number, names, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nd, and duration; all theſe are ſet in the Church, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>s inſtitutions to abide</hi> 1 Cor 12, 28. p. 9, <hi>to perfect, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> edifie; ſome in the world to precede the Church, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>me placed in it, to edifie</hi> p. 10, <hi>Muſt Saints be <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>rfected and edified, not by one, but by all theſe?</hi>
+                     <pb n="13" facs="tcp:169883:8"/>
+p. 11. <hi>then is Chriſts miniſterie breeding, and feeding; one prepares gathereth, the other buildeth further, both are one miniſterie, fruits of one purchaſe, both needfull, one to convert and enlighten, the other to edi<g ref="char:EOLhyphen"/>fie and ſtrengthen, therefore to continue together; the latter hath not been without the former he thinks, as</hi> p. 12</p>
+                  <p>I Anſw. Is converſion by the firſt part of this miniſtery, and edification by the latter; then the firſt muſt be now, or no converſion now; and the latter now, or no edification now; and then, well may he opoſe a Feeding miniſtrie, that hath not pertak't of the breeding miniſtery.</p>
+                  <p>Secondly, The denying this miniſtery now to be, is the belying that place, <hi>Eph.</hi> 4. for that (as he ſaid) declareth not only the number, names, end, but alſo the duration of Goſpel-miniſterie, and that, <hi>till all</hi> the ſaints <hi>meet, to a perfect man.</hi> It is to perfect, till all are perfected (converted as he ſaith) by this it appeareth now to be, except converſion be paſt.</p>
+                  <p>Thirdly Perſons miniſtring are Miniſters, that about which they miniſter is the miniſtrie; the breeding and feeding miniſtrie is where conver<g ref="char:EOLhyphen"/>ſion and edifying is; The Jews had <hi>Moſes</hi> and the Profits, when they had their writings; in the ſame ſence now, have we the Apoſtles, and Pro<g ref="char:EOLhyphen"/>phets; which is a miniſtrie both breeding and fee<g ref="char:EOLhyphen"/>ding;
+<pb n="14" facs="tcp:169883:9"/>
+tis breeding <hi>Joh.</hi> 20.30<g ref="char:punc">▪</g> 31. <hi>Many other ſignes he did which are not written in this book, but theſe are written, that ye might believe that Jeſus is the Chriſt the Son of God, and that in believing ye might have life through his name.</hi>
+                  </p>
+                  <p>And feeding 1 Jo. 5.13. <hi>Theſe things have I written unto you that beleeve in the name of the Son of God; that ye may know ye have eternall life, and may beleeve on the name of the Son of</hi> GOD.</p>
+                  <p>Yet theſe writings neither beget nor feed, if God aſſiſt not, neither did <hi>Pauls</hi> perſonall plant<g ref="char:EOLhyphen"/>ing, nor <hi>Apollos</hi> watering, except God gave the encreaſe.</p>
+                  <p>Fourthly let us honour the Miniſterie above Miniſters. God begets by his word <hi>Jam</hi> 1.18, ſom<g ref="char:EOLhyphen"/>time through the mouth of one unbegot him<g ref="char:EOLhyphen"/>ſelfe as we ſee, <hi>Eſa</hi> 42 19 20</p>
+                  <p>His opening of
+<list>
+                        <item>
+                           <hi>Perfecting</hi>
+                        </item>
+                        <item>
+                           <hi>Edifying</hi>
+                        </item>
+                     </list>
+I oppoſe not</p>
+               </div>
+               <div n="4" type="chapter">
+                  <head>CHAP. IIII.</head>
+                  <p>
+                     <hi>HIs third affirmation is, Scripture doth not clear Church gathering, without Miniſterie and Baptiſme preceding</hi> p 12</p>
+                  <p>I Anſwer, true, and we by the aforeſaid mini<g ref="char:EOLhyphen"/>ſtery
+<pb n="17" facs="tcp:169883:9"/>
+were converted, and were alſo baptized, be<g ref="char:EOLhyphen"/>fore we congregated.</p>
+                  <p>
+                     <hi>He addeth ſome ſay believers may conſent to be a Church, &amp;c. &amp; as a viſible church appoint one to bap<g ref="char:EOLhyphen"/>tize, &amp;c.</hi>
+                  </p>
+                  <p>I anſwer none but ſelf-ſeekers will ſo ſay, who being before leaders would be ſo ſtill, and ſo found out this by way: others after baptiſme, by conſent became a Church.</p>
+                  <p>
+                     <hi>But this he oppoſeth alſo, as if we now err from our firſt principles, for ſaith he, we now take not one in, though he conſent, till the Church (as in Chriſts name) Judge him fit; but (ſaith he</hi> p 13) <hi>who at firſt declared in Chriſts name to us, that Chriſt accepted of us as a Church? but ſome were diſigned thereto (ſaith he) a preceding miniſterie converting and eſpouſing them</hi> p 14 1 Cor 4 15 2 Cor 5 25. <hi>&amp;</hi> 11.2 <hi>&amp;</hi> 8 5.</p>
+                  <p>I anſwer, as now the whole Church Judgeth of the fitneſſe of ſuch as would be added, ſo at firſt, every particular was approved of by the whole; and ſo we ſwerve not from our firſt pra<g ref="char:EOLhyphen"/>ctiſe.</p>
+                  <p>And that ſome were deſigned, to judge whe<g ref="char:EOLhyphen"/>ther Chriſt would accept of a people <hi>&amp;c.</hi> is falſe and againſt the Goſpell; for as touching believing <hi>who ever cometh to Chriſt, he will in no wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e caſt off,</hi> Joh. 6. ſo alſo in obedience, <hi>if the mind be
+<pb n="18" facs="tcp:169883:10"/>
+willing he accepteth according to what we have.</hi> 2. Cor. 8.12. he diſpiſeth not the day of ſmall things. He reſpecteth tender Grapes: <hi>Cant.</hi> 2.14 15. and ſo, he deſigneth ſome to ſtrengthen weak hands, to confirme feeble knees: to ſay to the fearfull in heart, be ye ſtrong, &amp;c. <hi>Eſa</hi> 35.3.4. he deſigneth none, to tell people (though they ſet themſelves to ſerve the Lord, yet it is queſtionable whether he will accept of their ſo doing, and his quotations prove no ſuch thing. <hi>Paul</hi> in one, telleth the <hi>Cor.</hi> that he was their Father, he had begot them through the Goſpell, in another he ſaith, that he in Chriſts ſtead in<g ref="char:EOLhyphen"/>treated them to be reconciled, in the third place, he ſaith, he had eſpouſed them to a Husband, and in the laſt place, ſpeaking of the <hi>Macedonians</hi> ſaith, <hi>they gave themſelves up<g ref="char:punc">▪</g> firſt to the Lord then to us by the will of God;</hi> here note, firſt their vo<g ref="char:EOLhyphen"/>luntary act, <hi>they gave up themſelves.</hi>
+                  </p>
+                  <p n="2">2dly. to whom, <hi>firſt to the Lord, then to us,</hi> (ſaith he.)</p>
+                  <p n="3">3dly. by whoſe appointment? <hi>by the will of God.</hi>
+                  </p>
+                  <p>Had the Apoſtles been deſigned to judge whether peoples ſubmiſſion would be accepted off, then ſhould they have firſt given up them<g ref="char:EOLhyphen"/>ſelves to them, and then to the Lord, if the A<g ref="char:EOLhyphen"/>poſtles had judged them fit. Se how oppoſite
+<pb n="19" facs="tcp:169883:10"/>
+his quotations are to him, and he to them.</p>
+                  <p>Tis one thing to beget people by the word, to intreat people to be reconciled: and to be as judge, to judge whether ſuch as are begotten, on are reconciled, ſhall be accepted off, is another thing, to <hi>eſpouſe</hi> that is, to perſwade them to ac<g ref="char:EOLhyphen"/>cept of Chriſts eſpouſalls, by declaring his readi<g ref="char:EOLhyphen"/>neſſe, to accept of any that give themſelves up to him, is one thing, &amp; to judge whether though people do ſo, Chriſt will accept of it, is another thing; ſome were by Chriſt deſigned to the firſt, but not the latter.</p>
+                  <p>This Speech of his therefore tendeth to eclips Gods grace to ſadden his people, to bolſter up people in diſobedience to their own hurt and Gods diſhonour, who is glorified by peoples being Chriſts Diſciples. <hi>Joh.</hi> 15.8. <hi>Luk.</hi> 7.29.30. and ſo much to the third particuler.</p>
+               </div>
+               <div n="5" type="chapter">
+                  <head>CHAP V.</head>
+                  <p>
+                     <hi>HIs laſt affirmation is, that the preſent Mini<g ref="char:EOLhyphen"/>ſtrie, is not Chriſts, his being</hi> p. 15. <hi>called im<g ref="char:EOLhyphen"/>mediatly</hi> Mat. 10.1. &amp; 28.16. Ga<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. 1.12. <hi>with ſutable gifts</hi> Mar. 1.15. <hi>Act.</hi> 1.4, 8. <hi>theſe are Miniſters of Chriſt</hi> 1. Cor. 4.1.</p>
+                  <p>
+                     <hi>Or called mediatly that is, hereto impoured, by Apoſtles, for the Church: and with their ſuffrag and election.</hi> p. 16. Act. 6. Tit. 1.5. <hi>theſe are the Chur<g ref="char:EOLhyphen"/>ches
+<pb n="20" facs="tcp:169883:11"/>
+Meſſengers</hi> 2 Cor. 8 23. Phil. 2.25. <hi>theſe muſt be called by Apoſtles, or Apoſtolicall Mini<g ref="char:EOLhyphen"/>ſterie</hi> Act. 14.14.23. <hi>or by the Bride into whoſe Cuſtodie adminiſtrations were left,</hi> 1. Cor. 11.2 <hi>who convey gifts on them.</hi> 2 Tim. 1 6</p>
+                  <p>
+                     <hi>But the call of the preſent Miniſtery, was not immediate, nor by Apoſtles, nor by a true conſtitu<g ref="char:EOLhyphen"/>ted Church, eſpouſed by ſome hereto deſigned, as</hi> 1. Cor. 11 2 <hi>according to the eſtabliſh't order (faith and Baptiſme) and ſo, a powerleſſe people call a giftleſſe Miniſterie,</hi> p 17, 18 <hi>who wanting gift ſtudy arts, fullfilling</hi> Eſ. 28 7 8 <hi>till that en<g ref="char:EOLhyphen"/>lightening be.</hi> Rev. 18 1 &amp; 14 6 <hi>In the meane while, believers make not haſt.</hi> Eſ. 24.28 16 &amp; 37.32.</p>
+                  <p>I Anſwer firſt, doth Chriſt give call to the Mi<g ref="char:EOLhyphen"/>niſtery, a firſt, a ſecond and a third way, then they, that are called the firſt way only, or ſe<g ref="char:EOLhyphen"/>cond, or third way only: are notwithſtanding rightly called, and if there be a fourth, or fifth way, then ſuch as are called thereto, the fourth, or fift way, though not the firſt, ſecond or third, are notwithſtanding rightly called, and ſo, the preſent Miniſtery may be rightly called, though not called either of the three firſt wayes.</p>
+                  <p>But <hi>Phillip</hi> and others ſcattered ones, <hi>Act.</hi> 8.
+<pb n="21" facs="tcp:169883:11"/>
+&amp; 11. which were not Miniſters of the Word before were called to the miniſtery of the word and Baptiſme.</p>
+                  <p n="1">1. Not by Chriſt immediatly.</p>
+                  <p n="2">2. Nor by Apoſtles with Churches election.</p>
+                  <p n="3">3. Nor by the Church, but 4ly. By a providence, (being <hi>ſcattered</hi>) there is therefore a providen<g ref="char:EOLhyphen"/>tiall call.</p>
+                  <p n="5">5. The Evangeliſt <hi>Titus</hi> was left in <hi>Creta</hi> to redreſs what was wanting, and ordain Elders in every City, only minding, that they be rightly quallified.</p>
+                  <p n="6">6. <hi>Paul</hi> bad <hi>Timothy</hi> not to hinder any that ſhould deſire this Office, in caſe they that de<g ref="char:EOLhyphen"/>ſire it, are ſuitably qualified, this is a ſixt way.</p>
+                  <p>So then if the preſent Miniſtery, be thereto cal<g ref="char:EOLunhyphen"/>led, neither of the three firſt wayes; yet are they rightly called, if by either of the three laſt wayes, Providentiall, Evangelicall, or deſirable, if they be ſuitably qualyfied, 1 <hi>Tim.</hi> 3. <hi>Tit.</hi> 1.</p>
+                  <p>But is their call neither of the three firſt waies,</p>
+                  <p n="1">1. To Diſciples Chriſt gave his commiſſion, they have authority given them, and they have given call to this Miniſtery.</p>
+                  <p n="2">2. The Apoſtles Miniſtery, I mean the Scrip<g ref="char:EOLhyphen"/>ture calleth thoſe that are ſuitably qualified thereto.</p>
+                  <p n="3">
+                     <pb n="22" facs="tcp:169883:12"/>3. Chriſt immediatly hath inwardly called, and ſterd them up thereto, which is authoritive for the practiſe of a precept already given out, as <hi>Hagg.</hi> 1.14. thus for our call.</p>
+                  <p>2dly. Our Churches being in the right faith and order, <hi>Col.</hi> 2.5. (I meane in the main) and conſiſting of Diſcples, they are not powerleſſe, as in chap. 2. is ſhewn, and if our Miniſters do inſtrumentally convert and edefie and be indude with extraordinary vertuouſneſſe, as, if they be <hi>blameleſs the Husband of one Wife, having children not accuſed of riot, nor unrulie</hi> if he be, <hi>not ſelfe willed, not ſoon angry, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ot given to wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e, nor filthy lukar, no ſtriker, but a lover of Hoſptality, and of good men,</hi> being, <hi>ſober, Juſt, Holy Temperate, able to convince,</hi> then is he ſutably gifted, <hi>Tit.</hi> 1.5, 6, 7, 8, 9. 1 <hi>Tim.</hi> 3.1, 2, 3. any man that is thus qualified is ſutably gifted: Therefore ſaith <hi>Paul</hi> to <hi>Timothy,</hi> if <hi>any</hi> deſire the office, <hi>&amp;c:</hi> and to <hi>Titus,</hi> bidding ordain Elders, he addeth <hi>if any be blameleſſe, the Husband of one wife, &amp;c.</hi> Shewing plainly, that theſe are the ſutable gifts.</p>
+                  <p n="2">2 Though <hi>Timothy</hi> had a gift conveyed, we read not ſo of all, neither is it minded as a requiſite to a right call</p>
+                  <p n="3">3. Neither was it conveyed, by vertue of his call, but by laying on of hands.</p>
+                  <p n="4">4. Neither was it the gift of Miracles; for he might by ſtirring it up inlarge it.</p>
+                  <p>
+                     <pb n="23" facs="tcp:169883:12"/>And <hi>the ſignes,</hi> to wit, Miracles that <hi>did follow,</hi> or accompany the word <hi>Mark</hi> 16 are not mind<g ref="char:EOLhyphen"/>ed as a Miniſters Caracter, neither can it ſo be, for ſome Miniſters of Chriſt wanted theſe, and ſome falſe Miniſters have them as <hi>John</hi> 10 41. with <hi>Dutr.</hi> 13 1, 2, 3. and <hi>Mat.</hi> 24.</p>
+                  <p>And they that were bid wait for power <hi>Act</hi> 1 were not bid: not to Preach or Baptiſe till then, but to <hi>bide at Jeruſalem,</hi> and not to go to the Nations to teach them till then; and ſo this power is not authority, but ability to teach Nations, which they had not, till with the gift of Tongues they were impowred.</p>
+                  <p>And if ſtudiouſneſs in the Scripture, be the art he ſaith we have inſtead of gifts; I am ſure, <hi>Paul</hi> bid gifted <hi>Timothy</hi> do this. 1 <hi>Tim.</hi> 4 13, 14, 15,</p>
+                  <p n="3">3. They called Meſſengers of the Churches 2 <hi>Cor.</hi> 8 23 <hi>Ph.</hi> 2 25 are ſuch as were with ſome Meſſage ſent from one Church to another.</p>
+                  <p n="4">4 The enlightning he ſpeaks of, is but a clea<g ref="char:EOLhyphen"/>rer diſcovery of received truths, for who ſo teacheth otherwiſe, is to be accurſed; <hi>Gal,</hi> 8 and the beſt way to know, is to practiſe what we do know; <hi>John</hi> 7 17. <hi>&amp;</hi> 8 31,</p>
+                  <p n="5">5. Without all diſpute, Believers do make haſt to keep Chriſts commands, <hi>Pſal.</hi> 119 59 6<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>Act</hi> 2 41 <hi>&amp;</hi> 16 33 and ſo much to the ſub<g ref="char:EOLunhyphen"/>ſtance of this Book.</p>
+               </div>
+            </div>
+            <div n="2" type="part">
+               <pb n="24" facs="tcp:169883:13"/>
+               <head>The ſecond part.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>Hough his Anſwer to Objections, hangs on theſe hinges, and what hath been ſpoken, might ſerve as anſwer to what follows, if ſeriouſly weighed, yet to cleare the truth the better to the weaker ſort; I ſhall al<g ref="char:EOLhyphen"/>ſo wave his Objections and his Anſwers to them</p>
+               <p>The firſt Objection propounded and anſwer<g ref="char:EOLhyphen"/>ed by him, is for ſubſtance thus,</p>
+               <p n="1">1 Ob. <hi>Commiſſion to Preach and Baptize, was given to Diſciples as Diſciples,</hi> Mat. 28 <hi>and Diſ<g ref="char:EOLhyphen"/>ciples while diſciples ſo did;</hi> John 3 22 24 Mat. 4 21.</p>
+               <p>
+                  <hi>He Anſwerth,</hi> Chriſt was then with them, but when he left them, he deligated to them, the power that after his reſurrection was given him, <hi>Mat.</hi> 28. <hi>John</hi> 17 18 now, they are in Chriſts ſtead, then Diſciples, now Maſter-builders; their Miniſtery is Apoſtleſhip, not Diſcipleſhip, <hi>Act</hi> 1.2 <hi>&amp;</hi> 2 41.</p>
+               <p>I Reply, <hi>Though Chriſt be not preſent now, as then he was, yet are his commands as forcible now, as they were then; he will deſtroy at his next <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>omming ſuch as diſobey him in the time of his ab<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>nce;</hi> Luke 19 14 17.</p>
+               <p n="2">
+                  <pb n="25" facs="tcp:169883:13"/>2. The ſame men, (then Diſciples, now ma<g ref="char:EOLhyphen"/>ſter-builders) are imployed in the ſame work now, that they were then.</p>
+               <p n="3">3. And muſt teach Diſciples now to do, what he then taught them, as minded, chap. 2.</p>
+               <p n="4">4. If Chriſt had not power given him till af<g ref="char:EOLhyphen"/>ter his reſurrection, (as he ſaith) then their preaching and baptizing is his preſence, was as powerleſs as ours in his abſence.</p>
+               <p>To the ſecond branch of the queſtion he an<g ref="char:EOLhyphen"/>ſwers.</p>
+               <p n="1">1 They might be Apoſtles before <hi>Johns</hi> im<g ref="char:EOLhyphen"/>priſonment, though mentioned after.</p>
+               <p>I reply, not ſo, for it is ſaid, <hi>they baptized in</hi> Jordan, <hi>and</hi> Iohn <hi>in</hi> Enon; <hi>for</hi> Iohn <hi>was not yet in priſon.</hi>
+               </p>
+               <p n="2">2. He anſwereth if they were only Diſciples, yet Baptiſme was not theirs but Chriſts, autho<g ref="char:EOLhyphen"/>ritatively he did it: but he that hath authority, can judge of the fitneſs of thoſe he baptizeth, as did <hi>John, Philip</hi> and <hi>Peter, Mat.</hi> 3. <hi>Acts</hi> 8 38. &amp; 10.40.</p>
+               <p>I reply, was their Miniſtry Chriſts authori<g ref="char:EOLhyphen"/>tatively, ſo is ours; for, we as Diſciples, do thoſe things that they were bid in <hi>Mat.</hi> 28. to teach Diſciples to do.</p>
+               <p n="2">2 They could not judge infallibly of the fit<g ref="char:EOLhyphen"/>neſs of thoſe they baptized, witneſs the unfitneſs
+<pb n="26" facs="tcp:169883:14"/>
+of many that they did baptize. Alſo, <hi>John</hi> con<g ref="char:EOLhyphen"/>feſt that he that came after him, was he <hi>that had his fan in his hand, and which would throughly purge his floore.</hi>
+               </p>
+               <p n="3">3 Before he ſaid power was given to Chriſt after his Reſurrection, and now (ſaith he) it was Chriſts authoritively, a flat contradicti<g ref="char:EOLhyphen"/>on:</p>
+               <p>His third anſwer is, be it granted, that Diſci<g ref="char:EOLhyphen"/>ples did preach and baptiſe, not only with, but a part from Chriſt: yet their practiſe is not our pattern, Chriſt being till his death, a Member and Miniſter of the <hi>Jewiſh</hi> Church, and they ſub<g ref="char:EOLhyphen"/>ſervient to him, <hi>Rom.</hi> 15.8. but after his Re<g ref="char:EOLhyphen"/>ſurrection he gave power to preach and baptiſe, not to Diſciples as Diſciples,</p>
+               <p>I reply, he was not a Miniſter of that Church, he preacht the Goſpel to the <hi>Jews,</hi> and ſo <hi>was a Miniſter of the Circumciſſion,</hi> in the ſame ſence after Chriſts death was <hi>Paul a Miniſter of the Gentiles, and Peter of the Circumciſion,</hi> but not of the <hi>Jews</hi> Church.</p>
+               <p n="2">2 Had he been a Miniſter of that Church, it were not to his purpoſe, except in this he had executed that Miniſtery; but in preaching and baptizing they executed Goſpel-Miniſtery: therefore well may their practiſe be our pat<g ref="char:EOLhyphen"/>tern.</p>
+               <p>
+                  <pb n="27" facs="tcp:169883:14"/>And that he did alſo after his reſurrection im<g ref="char:EOLhyphen"/>powr Diſciples as Diſciples: I have ſhewn in chap. 2. from <hi>Math.</hi> 28. for he called them Diſ<g ref="char:EOLhyphen"/>ciples, bid them teach the Diſcipliſed, to doe what ever he had taught them to do, <hi>&amp;c.</hi>
+               </p>
+               <p n="2">2. Obj. <hi>Gifted Diſciples, men able to preach may Baptize</hi> Act. 8. <hi>&amp; Act</hi> 11.</p>
+               <p>He anſw. <hi>They may not, excepe they alſo have power.</hi> 70. <hi>more were gifted, yet was the commiſſion given only to the eleven.</hi> p. 22.</p>
+               <p>
+                  <hi>I reply,</hi> If it had been given only to them perſonally, yet being given to them as Diſciples, and they bid teach Diſciples to do the ſame; it muſt needs include preaching Diſciples, but to the eleven and others with them, it was given, as before ſhewn, and ſo to the 70. if they were with them, (and may be they were) for, whom he apeared to, and gave commiſſion to; thoſe he alſo at the ſame time bid wait at jeruſalem, <hi>&amp;c.</hi> and (accordingly, wait they did, to the number of 120. which is above 70. read <hi>Luk</hi> 24.32. to the end, with <hi>Acts</hi> 1.13.14.15.</p>
+               <p>
+                  <hi>His ſecond anſwer is, that there is difference be<g ref="char:EOLhyphen"/>tween preaching and declaring in</hi> p. 23, 24, 25. <hi>and that the ſcattered Diſciples did but declare: only</hi> Philip <hi>preacht, and baptiſed, and good reaſon; he be<g ref="char:EOLhyphen"/>ing admitted to the ſervice of the Church, and wa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> an Evangeliſt, one of thoſe mentioned;</hi> Eph. 4, 13 <hi>as</hi> Act. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 5. &amp; 21.8. <hi>and converſion by this meanes
+<pb n="28" facs="tcp:169883:15"/>
+was to the Apoſtles ſo rare, that they ſent</hi> Peter <hi>and</hi> John, <hi>which needed not, had their Miniſtery been ſufficient,</hi> p. 26.</p>
+               <p>I anſw as Diſciples declared and Baptized; ſo they may now, and if converſion by ſuch, were rare then; ſlight not the ſame now.</p>
+               <p n="2">2dly. <hi>Peter</hi> and <hi>John</hi> were not ſent to mend what Diſciples had done; but to do, what Diſ<g ref="char:EOLhyphen"/>ciples could not: Diſciples adminiſtred the word and Baptiſme, but conveyed not the Spirit, <hi>Act</hi> 8.16, 17.</p>
+               <p>Alſo they were ſent to <hi>Phillips</hi> converts, ſo that he oppoſeth Baptiſme adminiſtred by that <hi>Preacher,</hi> as much as the baptiſme adminiſtred by <hi>declarers,</hi> but he would have the reader think otherwiſe</p>
+               <p n="3">3dly. Did <hi>Philip</hi> preach? then Diſciples may, for his Deaconſhip was not to miniſter the Word, but to <hi>ſerve tables, Act.</hi> 6.2. and he was not an Evangeliſt, till after he had by preaching evangelized, nor ſo called, til long after.</p>
+               <p>His third anſwer, <hi>If theſe Diſciples did prea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h, yet not baptize,</hi> p. 27. <hi>or if they did baptiſe, they were baptized Members of a Church, if this be our pat<g ref="char:EOLhyphen"/>tern, let us be,</hi> 1. <hi>Members of a true viſible Church they were, and have gifts called extraordinary, they had.</hi>
+               </p>
+               <p n="3">3dly. <hi>Have Chriſts power and preſence with us
+<pb n="29" facs="tcp:169883:15"/>
+promiſed,</hi> Mat. 28. <hi>for they went not forth to preach without miracles.</hi> p 28. Mar. 16.20.</p>
+               <p>I reply, Diſciples did baptize, ſith <hi>Philip</hi> did (as before minded) and others too, for as they declared, the hand of the Lord went ſo with them, that many believed, and were added or turned to the Lord, <hi>Act.</hi> 11. how added? after believing, but by Baptiſme for <hi>Act.</hi> 2.41. <hi>they that gladly received his word were baptized and that day there were added three thouſand.</hi>
+               </p>
+               <p>Secondly, as we want the gift of Tongues, ſo did they, they could declare the word but to their Countreymen <hi>Act.</hi> 11.19.20. but they that Tongues fell on, could ſpeak in any Tongue to any people <hi>Acts</hi> 2. and as they were of a viſible Church, ſo are we, though we limit not preach<g ref="char:EOLhyphen"/>ing and baptizing ſo to it as on conſideration, to be, by one that is no viſible Church-Member; for <hi>Iohn</hi> preacht and baptized, and in ſo doing began the Goſpell. <hi>Mar.</hi> 1, 2, 3, 4. before a Goſ<g ref="char:EOLhyphen"/>pel viſible-Church had a being alſo though theſe had been of a viſible Church, yet now their Church-ſtate was broken by perſecution, yea all people were preacht to, and baptized, before they became a viſible Church (as he confeſ<g ref="char:EOLhyphen"/>eth.)</p>
+               <p n="3">3ly. Here is no mention of their miracles, and that none went out to preach without, or that
+<pb n="30" facs="tcp:169883:16"/>
+miracles muſt be wrought by every preacher is directly falſe: for <hi>John</hi> did none it preacht <hi>Jo.</hi> 10 41.</p>
+               <p>Fourthly, if miracles be the promiſed pre<g ref="char:EOLhyphen"/>ſence, then <hi>John</hi> had it not, but this preſence, <hi>Mat.</hi> 28. is an accepting, or likeing preſence, ſo as <hi>Paul was preſent in ſpirit, when abſent in body Ioying at their faith and order.</hi> Coll. 2.5.</p>
+               <p>Fifthly, were, miracles this promiſed preſence (as it is not) yet it being a promiſe anixt to a dutie we ſhould, firſt, do the duty, to wit, <hi>all things that were commnaded them,</hi> &amp; then expect the promiſe.</p>
+               <p>Ob. 3. Paul <hi>was not ſent to baptiſe but to preach, yet did baptiſe, he that doth the greater, may do the leſſe.</hi>
+               </p>
+               <p>
+                  <hi>He anſ. not ſent to baptiſe, not in expreſſe words ſaid baptiſe as it was to others: ſo he authoritively might, they muſt.</hi> p. 29. 30. <hi>as</hi> Peter <hi>might preach to the Gentiles.</hi>
+               </p>
+               <p>
+                  <hi>Secondly, inſtitutions (ſaith he) are not one infe<g ref="char:EOLhyphen"/>rior to another.</hi>
+               </p>
+               <p>I reply, If <hi>Paul</hi> was not by expreſſe word bid baptiſe, and yet authoritively might, by the ſame rule we may preach and baptiſe; though not by name called out thereto, for he could not authoritively go beyond his particular com<g ref="char:EOLhyphen"/>miſſion, but by vertue of the generall commſſi<g ref="char:EOLhyphen"/>on
+<pb n="31" facs="tcp:169883:16"/>
+given to Diſciples, he being one and the ſame Commiſſion giveth the ſame Authority to o<g ref="char:EOLhyphen"/>ther Diſciples alſo. Yea the ſame to Diſciples, as to Apoſtles, the ſame to Gentiles as to Iews, the ſame to us ſince, as to them before Chriſts aſ<g ref="char:EOLhyphen"/>cention.</p>
+               <p n="2">2. He ſaid p. 4. theſe two are the grand and capital inſtitutions of Chriſt: and here, his in<g ref="char:EOLhyphen"/>ſtitutions are not inferior, one to another, a con<g ref="char:EOLhyphen"/>tradiction.</p>
+               <p n="4">4. Obj. <hi>Mat.</hi> 28. <hi>is not fulfilled, if a Ministry be not to the worlds end.</hi>
+               </p>
+               <p>He anſwers, if it were given only to the ele<g ref="char:EOLhyphen"/>ven, then we are otherwiſe to underſtand, (worlds end) <hi>Jer.</hi> 1.5.</p>
+               <p n="2">2. If it reſpect a ſucceſſive Miniſtry, 'tis ei<g ref="char:EOLhyphen"/>ther breeding or feeding, or both: neither of which hath been viſible: yet Chriſt not un<g ref="char:EOLhyphen"/>faithful, ſince 'tis conditional, though for our eternal ſtate, his foundation is ſure, yet in tem<g ref="char:EOLhyphen"/>poralls, he forſaketh ſuch as forſake him, and particularly in the Miniſtry, to this purpoſe is page 32, 33, 34, 35, 36, 37. but the number of Saints being not yet perfected, we may expect enlightning, if we cry mightily, page 38. 39. 40.</p>
+               <p>I reply, <hi>What he in</hi> 8 <hi>or</hi> 9 <hi>pages goeth to prove, I grant, to wit, that this promiſe is conditional, and
+<pb n="32" facs="tcp:169883:17"/>
+ſo need not to wave ſuch proofs, but being ſo?</hi>
+               </p>
+               <p n="1">1 Let us perform the condition, and then ex<g ref="char:EOLhyphen"/>pect the fullfilling of the promiſe.</p>
+               <p n="2">2 This is that condition that God hath enga<g ref="char:EOLhyphen"/>ged himſelf to work in his people, <hi>he will teach the humble his way,</hi> Pſal. 25.9. therefore though <hi>Gods foundation be ſure,</hi> yet we may queſtion our being in this foundation, if God teach us not his way.</p>
+               <p n="3">3 Becauſe we are not ſo enlightned as we may be, we ſhould therefore walk by rule, ſo far as we have attained, <hi>Phil.</hi> 3.16. and though we come ſhort of what we ſhould do, or here<g ref="char:EOLhyphen"/>after may do, yet heartily endeavouring, God accepteth according to what we have, <hi>Haggai</hi> 2.4.5.</p>
+               <p n="4">4. The beſt way for more light is to practice what we have, <hi>John</hi> 7.17. and 8.31. which if we do not, what we have will be loſt, &amp; though we cry we ſhall not be heard, <hi>Prov.</hi> 1.28.</p>
+               <p n="5">5. Obj. <hi>We may not expect more Apoſtles, for the laſt have been,</hi> 1 <hi>Cor.</hi> 4.9.</p>
+               <p>He anſwers 1. that the ſame word in <hi>Luke</hi> 14.9. is loweſt.</p>
+               <p n="2">2 Be it laſt, it is the laſt that hath been, not that ſhall be; for by whom ſhall <hi>Iſrael</hi> be ga<g ref="char:EOLhyphen"/>thered, or Gentiles converted, <hi>Jer.</hi> 32.37, 38. and 22.3. <hi>Mark</hi> 13.10. <hi>Mat.</hi> 24.14. p. 41.</p>
+               <p>
+                  <pb n="33" facs="tcp:169883:17"/>I reply, why not the laſt that ſhall be, fore, if <hi>Paul</hi> and others that Chriſt (as you ſay elſe where, ſingled out) be the loweſt, who are the chiefeſt, and if they be the laſt, to wit, that had been, who were before them, and ſo the firſt, and if theſe (as he ſaith) be Church preſceders and part of the foundation, Chriſt being the chiefe Corner ſtone, then the laſt that ſhall be, for no other foundation may be laid nor this laid again who ever bringeth another Goſpell, then what hath beene brought, is to be accurſed, <hi>Gal.</hi> 1. 1 <hi>Cor.</hi> 3.</p>
+               <p>And others beſide ſuch perſonall Apoſtles have been imployed in gathering Jew and Gen<g ref="char:EOLhyphen"/>tile into the true fold, <hi>Mat.</hi> 10. <hi>Act.</hi> 8. <hi>&amp;</hi> 11. <hi>why not again.</hi>
+               </p>
+               <p>Obj. 6. <hi>Apoſtles writings may be called Apoſtls.</hi>
+               </p>
+               <p>
+                  <hi>He anſ. In a figure they may,</hi> Eſay <hi>was a Pro<g ref="char:EOLhyphen"/>phet to the Eunuch into whoſe hands his prophecy came, but he needed a guid, and ſo do we, and God that ſent him one, may ſend us one if he ſee our need &amp;c.</hi>
+               </p>
+               <p>I reply, as he granteth we have the Apoſtles in their writings, ſo I grant we need a guid, but a guide directeth in wayes we know not, and is uſeleſſe in known wayes; he knew not of whom the Prophet ſpake; and ſo needed guiding; but we know this and much more.</p>
+               <p>
+                  <pb n="34" facs="tcp:169883:18"/>We know we ſhould believe in Chriſt, ſhould pray, ſhould be baptized ſhould aſſemble, ſhould teach, heare, break bread, <hi>&amp;c.</hi> as God giveth ability and oportunity.</p>
+               <p>Secondly, God himſelf <hi>will guide the meek in judgement he will teach the humble his way,</hi> Pſa. 25.9.</p>
+               <p>Obj. 7. <hi>Paul took care for Churches, taught</hi> Timothy <hi>how to behave himſelf in the Church, did alſo bid him teach the ſame things to faithfull men, who might teach others alſo,</hi> 2 Tim. 2.2.</p>
+               <p>
+                  <hi>He anſ. True, but</hi> Paul <hi>foretold a falling from it.</hi>
+               </p>
+               <p>I reply, and therefore he bids the truly God<g ref="char:EOLhyphen"/>ly <hi>to contend earneſtly for the faith that was once given them.</hi>
+               </p>
+               <p>Obj. 8. May not the Saints (being Kings by Chriſt) reſtore worſhip as King <hi>Joſiah</hi> did 2 2 King. 22.</p>
+               <p>He anſ. <hi>Such Lawes God gave Prince</hi> Moſes Ex. 39 32.42.43. <hi>and Joſuah</hi> (types of Chriſt) <hi>and David had a pattern of the Temple</hi> 1 Cor. 28. <hi>the Kings built and reſtored, but the people (though a royall prieſthood</hi> Exo. 19.6. <hi>and kingly people,</hi> 1 Cor. 16.12.) <hi>went not to repaire without their King; therefore the firſt builders ſhould be reſto<g ref="char:EOLhyphen"/>rers.</hi>
+               </p>
+               <p>
+                  <hi>Chriſt adminiſtred once by himſelf, then by Ap<g ref="char:EOLhyphen"/>poſtles,
+<pb n="35" facs="tcp:169883:18"/>
+but never by the people &amp;c. but by choſen men</hi> p 4<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.45. Eph. 4.11, 12. 1 Cor 12.29. Act. 10.41. <hi>furniſht with ſuch a power and preſence of Chriſt as declared them to be ſent.</hi>
+               </p>
+               <p>I reply, as Chriſt hath adminiſtred by himſelf, and his Apoſtles: ſo alſo by the people, to wit Diſciples, for firſt (as hath been ſhown) thoſe to whom that generall and durable commiſſion <hi>Mat.</hi> 28. was given, were bid teach the Diſci<g ref="char:EOLhyphen"/>pliſed Nations, or peoples, to do the ſame things that themſelves were taught to do, and the A<g ref="char:EOLhyphen"/>poſtle <hi>Paul,</hi> bids the people to <hi>follow him as he did Chriſt,</hi> 1 Cor. 11. <hi>&amp;</hi> to the people he ſaith <hi>ye ought ſo to walk as you have us</hi> (us Apoſtles) <hi>for an example</hi> and Chriſt commends the people, for trying and ſo finding them lyers which ſaid they were Jews and were not <hi>Rev.</hi> 2. and who caſt lots for an Apoſtle in <hi>Judas</hi> roome, namely the people, the men and brethren the Diſciples <hi>Act.</hi> 1. yea to the Church or people <hi>Paul</hi> ſaith. <hi>what ſoever you have heard and ſeen, and learned, and received of me; thoſe things do, and the God of peace ſhall be with you</hi> Phil. 4.9. and ſo for reſto<g ref="char:EOLhyphen"/>ring, the people muſt <hi>contend earneſtly for the faith</hi> (ſtreight wayes, as <hi>Act.</hi> 13.) that was <hi>once given, Jud.</hi> 3. Chriſt bids the people <hi>repent and do their firſt work</hi> Rev 2.5. thus we ſee Chriſt hath not only adminiſtred by Apoſtles
+<pb n="36" facs="tcp:169883:19"/>
+but alſo, and equally by other Diſciples, and they when need is, ought to reſtore worſhip, and therefore when they do ſo; they do it not without their King. And though ſome of his quotations declare what Officers be in Chriſts univerſall Church (as before minded) yet not one ſaith, he never adminiſtred by the people to wit, Diſciples.</p>
+               <p>Queſt. <hi>Is not the Apoſtles miniſtery, as efficaci<g ref="char:EOLhyphen"/>ous, to poſſeſſe people of liberty, and put them on their duty, now, as formerly; ſith they ſhould teach Nations to obſerve, what ever was commanded them?</hi> Mat. 28. 2 Tim. 2.2.</p>
+               <p>
+                  <hi>He premiſeth, that their Miniſtery, was in word only or power,</hi> 1 Theſ 1.5. <hi>the power, is outward or inward</hi> Act. 19.6. Rom. 15.18.19. Heb. 2.4. <hi>be it outward, inward, or both obedience; is anſwe<g ref="char:EOLhyphen"/>rable</hi> Mat. 7.22. Luk 10.17. Gal. 5.22.23.26. 2 Cor. 2.4.</p>
+               <p>
+                  <hi>Then his anſwer is, we are by their Miniſtery, ſo far put on duty as it commeth with power</hi> 1 Cor. 1.5. 2 Cor. 3.6. <hi>&amp;</hi> 4.5. <hi>and though believers had the ſpirits demonſtration, yet are they not furniſht to obedience without power,</hi> Luk 24, 45.49. Act. 1, 2, 4: <hi>&amp;</hi> 10.38. <hi>both ability to ſay</hi> thus ſaith Chriſt, <hi>and authority ſo to ſay,</hi> Act. 4.7. Mat. 9.6.8.</p>
+               <p>I reply, Firſt it is in word only to them that
+<pb n="37" facs="tcp:169883:19"/>
+obey it not, and in power to thoſe in whom it produceth obedience.</p>
+               <p>Secondly outward power of conformity may be without the inward—but the inward is not without the outward, <hi>If Gods Law be in the heart, the tongue ſpeaks to edifying, the feet ſhun ſlyding</hi> Pſa. 37.31 Though ſome have the forme of Godlineſſe, that deny the power, none have the power that deny the forme.</p>
+               <p>Thirdly the power ſpecified, <hi>Theſ.</hi> 1.5. is not, (as he would have it <hi>viſible gifts, as tongues and miracles,</hi> but it is, what he by that place op<g ref="char:EOLhyphen"/>poſeth, to wit, reall and viſible obedience.</p>
+               <p>Fourthly the <hi>power</hi> promiſed and waited for, <hi>Luk,</hi> 24.45 49. is not (as he would have it) the <hi>power</hi> of authority; but of abillity, Authori<g ref="char:EOLhyphen"/>ty to pray, preach, chuſe Officers and the like, was given, when that commiſſion, <hi>Math.</hi> 28 was given, theſe they might do, and did do, while they waited, therefore was their waiting for the power of ability to teach all Nations, which they had not til tongues fell on them, they had authority to Diſcipliſe the Nations, when the Commiſsion ſo to do, was given them but they muſt abide at <hi>Jeruſalem</hi> til ability be alſo given.</p>
+               <p>He whoſe heart is Godward, having abillity and oportunity, wanteth not authority, for [as was ſhewn] authority hath its reſidence among
+<pb n="38" facs="tcp:169883:20"/>
+Diſciples, and ſo in this that he moſt glorieth in, he mainly miſtakes.</p>
+               <p>
+                  <hi>Queſt. Were not miracles rather to confirme the word, then to witneſſe perſons being ſent?</hi> Heb. 2.4</p>
+               <p>
+                  <hi>He anſ. as to confirme the word,</hi> Mar. 16 20: <hi>ſo alſo to witneſſe perſons being ſent, Chriſts works teſtified that the Father ſent him,</hi> Io. 5 36 <hi>&amp;</hi> 11 42 <hi>&amp;</hi> 20 21 and as the Father ſent forth him ſo he ſent forth them, <hi>Jo.</hi> 17 18 <hi>Act</hi> 413, 14 <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>6 <hi>therefore their works teſtifie their being ſent of Chriſt the ſignes of an Apoſtle were wrought among you</hi> 2 Cor: 12 12.</p>
+               <p>I Anſwer the people opoſing Chriſt, he tells them of ſeverall that bore witneſſe of him, as firſt <hi>Iohn chap.</hi> 5. v 33. 2dly his works v 36 Third<g ref="char:EOLhyphen"/>ly the Father v 37. Fourthly the Scripture v 39 all theſe were witneſſes of his being the Meſſiah: that ſo by coming to him they might have life v 40:</p>
+               <p>That miracles was (among others) one wit<g ref="char:EOLhyphen"/>neſſe that Chriſt is the Meſſiah is true, but that they were alſo appointed to witneſſe who are the witneſſes of Chriſt is falſe, for <hi>Iohn</hi> who did bear witneſſe of Chriſt, wrought none, <hi>Ioh.</hi> 10 41 alſo ſome that opoſe the truths of God, have wrought miracles, and ſhall againe <hi>Deuter.</hi> 13 1, 2, 3 <hi>Rev.</hi> 13.1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</p>
+               <p>Ob. As he was ſent, ſo he ſent them into be World <hi>Iohn</hi> 17, 18.</p>
+               <p>
+                  <pb n="39" facs="tcp:169883:20"/>I anſwer though in ſome things theſe be ſent as he was, yet not in every thing, not with mi<g ref="char:EOLhyphen"/>racles to witneſſe that they are Meſſiahs, as he was ſent with miracles to witneſſe himſelf to be the Meſſiah, but as he was ſent to bear witneſſe to the truth, ſo were they, and ſo was <hi>Iohn,</hi> who wrought not miracles, as Chriſt did.</p>
+               <p>Secondly thoſe ſent by Chriſt into the world; as he was ſent into the World; are not Apoſtles only, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or only miracle workers, but other Saints <hi>thoſe that were given him out of the World which received and kept his word, which knew him to be ſent of God</hi> as verſe 6, 7, 8 even ſuch as <hi>are not of the World, as he is not of the world;</hi> are the ve<g ref="char:EOLhyphen"/>ry perſons, that <hi>he ſendeth into the world, as he was ſent into the world</hi> as v 14 16, 17, 18.</p>
+               <p>Obj. <hi>But the ſignes of an Apoſtle were wrought among you.</hi>
+               </p>
+               <p>I anſwer that miracles are not the Caracter of an Apoſtle, was lately ſhewn. Secondly this place would have proved it, if the fol<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>owing words were not added, <hi>with ſignes, wonders, and mighty deeds,</hi> theſe ſignes and mighty deeds, are an overplus, to the ſigns of an Apoſtle.</p>
+               <p>Thirdly the ſame Apoſtle doth to the ſame people declare other things to be the ſignes of an Apoſtle, as his having ſeen Chriſt, and his having brought them into the direct wayes of
+<pb n="40" facs="tcp:169883:21"/>
+Chriſt, ſo in 1 <hi>Cor.</hi> 9.1.2. <hi>Am not I an Apoſtle? am not I free? have not I ſeen Jeſus Chriſt our Lord? are not ye my work in the Lord? if I be not an Apoſtle to others, yet doubtleſſe I am to you: for ye are the ſeal of mine Apoſtleſhip in the Lord,</hi> here are Apoſtles Charactorized indeed, even by the Apoſtle himſelf minded as <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>aractors without doubt.</p>
+               <p>Therefore would profeſſed Chriſtians trye again whether they have ſhare in the Apoſtles miniſtery, let them not try it by the miracles that the inſtruments of their good have wrought: but whether the Doctrine taught them, and the wayes they are brought into, be indeed the truths and wayes of Chriſt, as 2 <hi>Cor</hi> 13 <hi>verſe</hi> 5.</p>
+               <p>Queſtion <hi>Gifts are to be improved, for edifica<g ref="char:EOLhyphen"/>tion: and how can it be orderly done out of a Church ſtate.</hi>
+               </p>
+               <p>
+                  <hi>He anſwers, as the gift is, ſo muſt be the improve<g ref="char:EOLhyphen"/>ment, and where theſe are, the Church is ſo glori<g ref="char:EOLhyphen"/>ous they need not take care how to improve them out of a Church.</hi>
+               </p>
+               <p>
+                  <hi>Be it wiſdome knowledge faith, miracles healing propheſie, &amp;c. or be it joy hope, love and the like, the ſpirit is not wanting to teach improvement</hi> p. 50.</p>
+               <p>I reply, by this rule exhortations and dehor<g ref="char:EOLhyphen"/>tations
+<pb n="41" facs="tcp:169883:21"/>
+be in vain, in vaine ſaith Paul, <hi>ſtirre the gift that is in thee,</hi> 2 Tim. 1 6 in vaine ſaith Peter, <hi>let every man as he hath received the gift, ſo adminiſter,</hi> 1 Pet. 4 10. <hi>in vain ſaith John, theſe things I write to you that your joy might be full.</hi>
+               </p>
+               <p>
+                  <hi>He anſwers further, what was ever written is for our learning, they in the Templeſtate and wil<g ref="char:EOLhyphen"/>derneſſe, are our types,</hi> 1 Cor. 10, 11 2 Cor. 6.16 Rev. 11 8. <hi>but ſome worſhip was to be in the Temple only</hi> Duter. 12. <hi>but prayer, private, or publick, ſhould be in the land of their Captivity,</hi> p. 50.51. 1 King. 1 &amp; 44.50 51. &amp;c. 4, 5, 16 <hi>to teach us, that now, ſomething is peculiar to a Church (as binding and looſing &amp;c.</hi>
+               </p>
+               <p>I anſwer, it hath been ſhewn firſt, that we are a Church, and that preaching and baptizing hath been by <hi>John</hi> out of a viſible Church ſtate, though binding and looſing hath not.</p>
+               <p>
+                  <hi>He addeth, ſome ſay we have truth, others ſay we have: builders and ſtones are at odds; If the true miniſtery were on foot, would this confuſion be, is not might therefore your viſion, and a rent your Girdle; but God hath given us hope if we cry mightily.</hi>
+               </p>
+               <p>I reply, this declares it ſo with ſome, but not withall, when <hi>Michah</hi> and others contended, the word of the Lord came to me ſaith one, tis
+<pb n="42" facs="tcp:169883:22"/>
+not ſo ſaith tother, but <hi>Michah</hi> had the word of the Lord, and night was not his viſion.</p>
+               <p>Alſo that famous Goſpell Church at Anti<g ref="char:EOLhyphen"/>och, contended about Circumciſition, <hi>Act.</hi> 15. &amp; ſome had truth on their ſide, but the Church could not diſtinguiſh, and yet a Church of Chriſt ſtill, and as they had recourſe to the Apoſtles and Elders at Jeruſalem, ſo may we to the A<g ref="char:EOLhyphen"/>poſtles writings, and if need be to other Chur<g ref="char:EOLhyphen"/>ches.</p>
+               <p>Ob. <hi>but ſaith he) the builders and ſtones are at odds.</hi>
+               </p>
+               <p>I reply, So it was with Paul the Corinthians (though he had beg it, builded, eſpouſed them) they queſtioned the truth of his Apoſtleſhip, 1 <hi>Cor.</hi> 9.1, 2, 3. &amp; 2 <hi>Cor.</hi> 11 4, 5, 6 &amp; 13.3. yet <hi>Paul</hi> a true an Apoſtle, they a true Church, and had the true miniſtery.</p>
+               <p>Obj. <hi>How ſhall Gods name be great among the Gentiles?</hi> Mat. 1.11.</p>
+               <p>
+                  <hi>He anſwers, God will provide, he can bring it a<g ref="char:EOLhyphen"/>bout</hi> Mich. 2.7 10 <hi>&amp;</hi> 3 5 6 7 <hi>&amp;</hi> 4 Eſa 22, 7 Rom. 10 15.</p>
+               <p>I reply, Though God can and will bring his work about; yet it ſhall not be to our ho<g ref="char:EOLhyphen"/>nour or comfort, if we refuſe to help, yea, though he want not might, yet ſuch <hi>as come not forth to help the Lord, are curſed bitterly,</hi> Judg. 4 8, 9 <hi>&amp;</hi> 5. 23, 24.</p>
+               <p>
+                  <pb n="43" facs="tcp:169883:22"/>Secondly, in the time of Captivity ſom dwelt in fieled houſes when Gods houſe lay waſte, they ſaid, <hi>the time is not come,</hi> but God ſharply reproveth them, and giveth them to know they ſhould have gained time for his as well as for their own.</p>
+               <p>Obj. <hi>No miniſtery no believing, how can they believe on him of whom they have not, heard or hear without a preacher,</hi> Rom. 10.14.</p>
+               <p>
+                  <hi>He anſwer by they is ment the Jewes</hi> p. 55. 56 they muſt have a preacher ere they believe, they have heard and rejected, and ſo are blinded, till the time come, for the diſperſed to come to <hi>Zi<g ref="char:EOLhyphen"/>on,</hi>
+               </p>
+               <p>I reply, that by they is ment the Jewes, I ful<g ref="char:EOLhyphen"/>ly grant, and yet he anſwers not the Objecti<g ref="char:EOLhyphen"/>on for the Apoſtle draweth their particular from the generall, <hi>faith cometh</hi> ſayth he) <hi>by hea<g ref="char:EOLhyphen"/>ring, and hearing, by the Word preacht;</hi> ſo that no preaching no hearing, no hearing, no believing, <hi>how then can they,</hi> (the Jewes) <hi>believe except they heare, or heare, without a preacher?</hi>
+               </p>
+               <p>
+                  <hi>He addeth, not, but that ſome Jewes and Gen<g ref="char:EOLhyphen"/>tiles may hear of God and Chriſt and believe to ſalvation without a ſpeciall ſending to preach, but the Nation ſhall not.</hi>
+               </p>
+               <p>
+                  <hi>The Samaritans and Cornelius believed with<g ref="char:EOLhyphen"/>out authoritive preaching, ſome may by a Godly life,
+<pb n="44" facs="tcp:169883:23"/>
+ſome by the ſcattered ones declaring, who were ſo far from being ſent that they were ſent after,</hi> p. 58 59.</p>
+               <p>
+                  <hi>Therefore though faith come by hearing; yet may ſome believe that have not ſo heard, and this adds ſtrength to the mourners of Zion, and to free them from the</hi> Bull; <hi>not to queſtion the preſent mi<g ref="char:EOLhyphen"/>niſtery leſt alſo they queſtion their own belie<g ref="char:EOLhyphen"/>ving, &amp;c.</hi>
+               </p>
+               <p>I reply, If ſome Jewes (though not the Na<g ref="char:EOLhyphen"/>tion) may believe without preaching, then may ſome gentiles alſo; and it is but ſome, that now do belive and obey.</p>
+               <p n="2">2dly, If ſome, may believe without preach<g ref="char:EOLhyphen"/>ing, why may not more do ſo alſo.</p>
+               <p n="3">3dly. If ſome believe without ſo hearing, then was the Apoſtle out, in ſaying <hi>faith commeth by hearing, and hearing, by the word preacht.</hi>
+               </p>
+               <p n="4">4thly, If <hi>Paul</hi> ſpeak truth in ſaying <hi>faith com<g ref="char:EOLhyphen"/>eth by hearing and hearing by the word preacht,</hi> then ſurely where believing is, hath been preaching, though we ſay otherwiſe.</p>
+               <p n="5">5thly, It is where the word hath been de<g ref="char:EOLhyphen"/>clared, that holy life tends to converſion, it con<g ref="char:EOLhyphen"/>vens not without; but joyntly with the word, 1 <hi>Pet.</hi> 3.1.</p>
+               <p n="6">6ly, Were thoſe ſcattered far from being ſent, and yet declared and baptized, then may Diſci<g ref="char:EOLhyphen"/>ples
+<pb n="45" facs="tcp:169883:23"/>
+alſo do ſo now, though no more ſent then they were,</p>
+               <p n="7">7thly, They that were ſent (as he ſaith after the ſcantered ones,) were not ſent, to declare null, nor yet to mend, what they had done; but to do what they could not do; <hi>to lay <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> hands and convey the ſpirit.</hi>
+               </p>
+               <p n="8">8ly, The b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll he ſpeaketh of; hath not been ſo much among the Churches as among the non-Church ones, they have not only queſtio<g ref="char:EOLhyphen"/>ned the preſent miniſtery but their own belie<g ref="char:EOLhyphen"/>ving alſo, for want of miracles <hi>&amp;c.</hi>
+               </p>
+               <p n="9">9ly, Though there doth ariſe comfort; not only to the Churches but to ſuch as have not light therein; if their conſcience can truly witneſſe, that they have a willing minde; then God accepteth according to what we have; and ſo it was with the Eunuch and Cornelius; <hi>&amp;c.</hi> but if our not being of a Church, and in Chriſts way be not, through want of light but want of love thereto, then is our caſe very dan<g ref="char:EOLhyphen"/>gerous, and the true hearted ſhall not abide long ignorant hereof; as was ſhewn, and ſo it was with the Eunuch and Cornelius, and others</p>
+               <p>And therefore hinder not the work of Chriſt, as ye will anſwer it before the Apoſtle and high Prieſt of our profeſsion, at the great day of his appearing; <hi>who will reward every one, according to what he did in the fleſh whether good or bad.</hi>
+               </p>
+               <list>
+                  <pb n="46" facs="tcp:169883:24"/>
+                  <head>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Minde further theſe ten Notes.</head>
+                  <item>I <hi>Apoſtles practice is Diſciples pattern,</hi> Phil. 3 1 Theſ. 3 6, 7.</item>
+                  <item>II <hi>When people</hi> ſet up God for their God, <hi>or</hi> when God ſets up any for his precious people <hi>they are engaged</hi> to walk in his wayes, to keep his Ordinances, his commands &amp; lawes <hi>Deut.</hi> 26.17, 18.</item>
+                  <item>III <hi>The worſhipping God as he appoints, is walking in his way,</hi> Levit. 26 3.</item>
+                  <item>IIII <hi>Such as ſee themſelves in wrong wayes, ought</hi> to enquire for the good old way and to walke therein, <hi>Ier.</hi> 6.16.</item>
+                  <item>V <hi>God is by promiſe engaged, to teach all that are humble and inquiſitive, the knowledge of him<g ref="char:EOLhyphen"/>ſelf and his wayes,</hi> Prov. 5.1, 2, 3, 4, 5. Pſa. 25: 9.</item>
+                  <item>VI <hi>The Scripture is a guide, to finde out Gods wayes and commands,</hi> to the Law and to the teſtimony if they ſpeak not according to this word there is no light in them, <hi>Eſa</hi> 8 20 <hi>the Iewes by reading Scripture found dwelling in Boothes, a Law for them to obſerve, and ſo betook themſelves to the practiſe of it with great joy, for they had been ſo long without it, that they know it not to be a Law til they found it ſo to</hi>
+                  </item>
+                  <item>VII <hi>be by reading Scripture. And as this being given to Iſraelites, Iſraelites might obey it, ſo Goſpel commands were given by Chriſt to diſ<g ref="char:EOLhyphen"/>ciples,
+<pb n="47" facs="tcp:169883:24"/>
+and therefore Diſciples may ſet to the practiſe of them,</hi> Matth. 28 19, 20 Binde up the teſtimony among my Diſciples <hi>Eſa.</hi> 8: 16</item>
+                  <item>VIII <hi>They whoſe hearts are now as free, to obey Chriſt as once they were to ferve ſin are Chriſts Diſciples or ſervants,</hi> Rom. 6.19.</item>
+                  <item>IX <hi>Miracles do not declare, who are Diſciples, or who have authority to practiſe Chriſts com<g ref="char:EOLhyphen"/>mands, for</hi>
+                     <list>
+                        <item>1 <hi>Falſe Prophets ſhall in latter daies, work mi<g ref="char:EOLhyphen"/>ra<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>les,</hi> 2 Theſ. 2 9</item>
+                        <item>2 <hi>To believe and obey without ſeeing miracles is commendable, and the contrary reproveable,</hi> John 4.48 <hi>&amp;</hi> 20<g ref="char:punc">▪</g>29 1 Pet. 1 8.</item>
+                        <item>3 <hi>The miracles that in Scripture we read of, are in all ages uſefull,</hi> Iohn 20 30 31.</item>
+                        <item>4 <hi>Signes are for ſuch as believe not,</hi> 1 Cor. 14.</item>
+                        <item>5 <hi>Miracles ſeekers are by Chriſt termed adul<g ref="char:EOLhyphen"/>tereus,</hi> Mat. 12 39.</item>
+                     </list>
+                  </item>
+                  <item>X <hi>Church meetings is Diſciples duty alſo for:</hi>
+                     <list>
+                        <item>1 <hi>One main end of the miniſtery is the gathe<g ref="char:EOLhyphen"/>ring Saints together.</hi> Eph. 4.</item>
+                        <item>2 <hi>To ſuch as gather together in Chriſts name hath he promiſed his preſence</hi> i.e. <hi>acceptance</hi> Math. 18.</item>
+                        <item>
+                           <pb n="48" facs="tcp:169883:25"/>
+                           <p>3 <hi>The moſt neceſſary duties cannot be obſerved, without Church-meetings; we are to break bread in remembrance ef Chriſt, but this cannot be done without Church aſſembling</hi> Act. 20.7. 1 Cor. 11.</p>
+                           <p>
+                              <hi>We need oft to exhort each other which cannot be except we aſſemble;</hi> Heb. 3 <hi>&amp;</hi> 10 25 <hi>neither can publike prayer be without Church meeting</hi> Act. 1</p>
+                        </item>
+                        <item>4 <hi>We are to love brotherly fellowſhip,</hi> 1 Pe. 2.17.</item>
+                     </list>
+                  </item>
+               </list>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="erratum">
+            <p>Page 29 line 17, for on read<g ref="char:punc">▪</g> no.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
